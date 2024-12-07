@@ -1,2 +1,2 @@
-# co1vm1
-autofz1(241208)
+# co1
+v1: 241208(autofz1)
